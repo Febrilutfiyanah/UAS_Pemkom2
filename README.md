@@ -17,8 +17,8 @@ Aplikasi ini dirancang untuk membantu pengguna dalam mencatat dan memantau asupa
 
 ##  Teknologi yang Digunakan
 
-- **Frontend**: Java (Swing/JavaFX) / HTML + CSS + JS (jika Web)
-- **Backend**: Python (Flask/Django) / Node.js (Opsional untuk pengembangan lebih lanjut)
+- **Frontend**: Java (Swing/JavaFX)
+- **Backend**: Python (Flask/Django) /
 - **Database**: MySQL / SQLite
 - **Tools Tambahan**:
   - Chart.js / JFreeChart (visualisasi grafik)
