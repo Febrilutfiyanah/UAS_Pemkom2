@@ -1,0 +1,7 @@
+com\monitoringgizi\Main.class
+com\monitoringgizi\view\MainView.class
+com\monitoringgizi\model\Makanan.class
+com\mycompany\monitoringgizidanmakananharian\MonitoringGizidanmakananharian.class
+com\monitoringgizi\model\FoodModel.class
+com\monitoringgizi\view\LoginView.class
+com\monitoringgizi\controller\FoodController.class
